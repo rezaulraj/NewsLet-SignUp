@@ -12,3 +12,5 @@ and then you need mailchamp api to send the data.
 
 ![Newsletter-signup](https://user-images.githubusercontent.com/121923125/222223126-5bff11e6-ffdd-477e-948f-ac8192aa39cb.PNG)
 
+You can see above the server site you would take input an then see 
+
